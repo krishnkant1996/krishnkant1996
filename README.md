@@ -1,32 +1,89 @@
+     # 👋 Hi, I'm Krishnkant Tiwari!  
 
-Hi there! 👋
+Welcome to my GitHub profile! I’m a **Senior Software Development Engineer** with over **4 years of experience** in developing modern, scalable, and user-friendly web applications. I specialize in **React.js**, **Node.js**, and **Full Stack Development**, with a focus on performance optimization and cloud infrastructure.
 
-My name is Krishnkant Tiwari, and I'm a software developer with over 4 years of experience in developing web applications. I'm passionate about using technology to solve real-world problems and create innovative solutions.
+---
 
-Skills and Expertise
-My expertise lies in frontend development using JavaScript frameworks such as React. I'm also proficient in backend technologies such as Node.js and Express.js. Additionally, I have experience working with databases such as MongoDB and MySQL. I have experience working with cloud services such as AWS and Digital Ocean.
+## 🛠 **Skills and Expertise**  
+### **Frontend Development**  
+- Proficient in **React.js**, **Redux**, and modern **JavaScript (ES6+)**.  
+- Expertise in building responsive, dynamic, and user-friendly UIs with **HTML**, **CSS**, and **SASS/SCSS**.  
+- Skilled in **Next.js** for server-side rendering and performance optimization.  
 
-Some of my other areas of interest include machine learning, data science, and artificial intelligence. I enjoy exploring new technologies and learning about the latest developments in the field.
+### **Backend Development**  
+- Strong knowledge of **Node.js**, **Express.js**, and API development.  
+- Expertise in building secure, scalable backend services and working with microservices architecture.  
 
-Work Experience
-I have experience working with clients from a range of industries, including healthcare, finance, and e-commerce. I have worked on various projects such as e-commerce websites, healthcare applications, and financial dashboards.
+### **Databases**  
+- Proficient in both **SQL** (MySQL) and **NoSQL** (MongoDB).  
+- Hands-on experience with database optimization for performance and scalability.  
 
-Recent Projects
-On my GitHub profile, you'll find a range of projects that showcase my skills and interests. Here are some of my recent projects:
+### **Cloud Services**  
+- Expertise in deploying and managing applications on **AWS** and **Digital Ocean**.  
+- Experience with **CI/CD pipelines** for smooth and automated deployments.  
 
-React E-Commerce Site: A fully functional e-commerce website built using React, Redux, and Firebase. The website includes features such as product search, cart management, and checkout.
+### **Other Areas of Interest**  
+- Actively exploring **Machine Learning**, **Data Science**, and **Artificial Intelligence** to integrate cutting-edge features into applications.  
+- Interested in **PWA (Progressive Web Apps)** and advanced **Web Vitals** metrics for performance optimization.  
 
-Node.js REST API: A REST API built using Node.js, Express.js, and MongoDB. The API allows users to create, read, update, and delete data.
+---
 
+## 💼 **Professional Experience**  
+### **Senior Software Development Engineer, REA India**  
+- Optimized the **Dedicated Page Response Time** by **20%** through parallelizing API calls, significantly enhancing the user experience.  
+- Improved **Core Web Vitals** metrics, achieving **100% of good URLs** for News by optimizing **CLS** and **LCP**.  
+- Reduced **5xx errors** to below-average levels (<10 per week) by performing root cause analysis, raising tickets, and planning fixed releases.  
+- Collaborated with the design and product teams to resolve dependencies, plan stories, and deliver tasks on time.  
+- Implemented microfrontend architecture using **Lerna** and reusable components/hooks for scalable development.  
 
+### **Simform**  
+- Built and optimized full-stack web applications for clients in **healthcare**, **finance**, and **e-commerce** domains.  
+- Developed reusable components and libraries to improve efficiency and scalability.  
+- Contributed to cross-functional teams to deliver high-quality solutions on time.  
 
-Collaboration and Contact
-I'm always open to collaboration and new opportunities, so if you're interested in working together, please feel free to reach out to me. You can connect with me via LinkedIn or send me an email at [krishnkant120@gmail.com].
+### **Knackbout Studios**  
+- Worked on a **game-based learning platform** enabling students and professionals to practice, test, and showcase their skills.  
+- Focused on creating seamless user experiences and optimizing performance.  
 
-Thanks for visiting my GitHub profile, and I look forward to connecting with you!
+---
 
+## 🌟 **Recent Projects**  
+### **React E-Commerce Platform**  
+- A complete e-commerce solution built with **React**, **Redux**, and **Firebase**.  
+- Features include product search, dynamic cart management, and a secure checkout system.  
+- Implemented lazy loading, optimized components, and responsive design for a seamless user experience.  
 
-<!---
-krishnkant1996/krishnkant1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### **Node.js REST API**  
+- Designed and developed a robust RESTful API using **Node.js**, **Express.js**, and **MongoDB**.  
+- Included CRUD operations and JWT-based authentication for security.  
+- Deployed on **AWS** with automated backups and monitoring.
+
+### **Performance Optimization for Dedicated Pages (REA India)**  
+- Reduced page response times by **20%** by moving sequential API calls to parallel execution.  
+- Improved Core Web Vitals metrics, achieving 100% of good URLs for News.  
+
+---
+
+## 🏆 **Key Achievements**  
+- Optimized website performance, reducing **5xx errors** and improving user experience.  
+- Led the implementation of microfrontend architecture for scalable, modular development.  
+- Delivered key features and resolved dependencies through effective sprint planning and collaboration.  
+- Reduced latency and improved performance for high-traffic websites using cloud and CDN optimizations.  
+
+---
+
+## 📈 **What I’m Currently Working On**  
+- Exploring advanced **Web Vitals** metrics and performance optimization techniques.  
+- Enhancing skills in **PWA (Progressive Web Apps)**, **service workers**, and **module federation**.  
+- Diving deeper into **machine learning** and **AI** to build smarter applications.  
+
+---
+
+## 🤝 **Let’s Connect**  
+I’m always open to collaborating on innovative projects or discussing new opportunities. Feel free to reach out to me!  
+
+- **Email:** [krishnkant120@gmail.com](mailto:krishnkant120@gmail.com)  
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/krishnkant-me/)  
+- **GitHub:** [View my repositories](https://github.com/krishnkant1996)  
+
+Thanks for stopping by! Let’s build something incredible together. 🚀  
