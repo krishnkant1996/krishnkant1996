@@ -1,89 +1,115 @@
-     # 👋 Hi, I'm Krishnkant Tiwari!  
+# 👋 Hi there, I'm Krishn kant Tiwari!
 
-Welcome to my GitHub profile! I’m a **Senior Software Development Engineer** with over **4 years of experience** in developing modern, scalable, and user-friendly web applications. I specialize in **React.js**, **Node.js**, and **Full Stack Development**, with a focus on performance optimization and cloud infrastructure.
-
----
-
-## 🛠 **Skills and Expertise**  
-### **Frontend Development**  
-- Proficient in **React.js**, **Redux**, and modern **JavaScript (ES6+)**.  
-- Expertise in building responsive, dynamic, and user-friendly UIs with **HTML**, **CSS**, and **SASS/SCSS**.  
-- Skilled in **Next.js** for server-side rendering and performance optimization.  
-
-### **Backend Development**  
-- Strong knowledge of **Node.js**, **Express.js**, and API development.  
-- Expertise in building secure, scalable backend services and working with microservices architecture.  
-
-### **Databases**  
-- Proficient in both **SQL** (MySQL) and **NoSQL** (MongoDB).  
-- Hands-on experience with database optimization for performance and scalability.  
-
-### **Cloud Services**  
-- Expertise in deploying and managing applications on **AWS** and **Digital Ocean**.  
-- Experience with **CI/CD pipelines** for smooth and automated deployments.  
-
-### **Other Areas of Interest**  
-- Actively exploring **Machine Learning**, **Data Science**, and **Artificial Intelligence** to integrate cutting-edge features into applications.  
-- Interested in **PWA (Progressive Web Apps)** and advanced **Web Vitals** metrics for performance optimization.  
+Welcome to my GitHub profile! I’m a passionate and results-driven **Senior Software Development Engineer** with **4+ years of experience** building fast, scalable, and user-centric web applications. I specialize in **React.js**, **Node.js**, and full-stack JavaScript development — with strong foundations in **performance optimization**, **cloud infrastructure**, and **scalable system design**.
 
 ---
 
-## 💼 **Professional Experience**  
-### **Senior Software Development Engineer, REA India**  
-- Optimized the **Dedicated Page Response Time** by **20%** through parallelizing API calls, significantly enhancing the user experience.  
-- Improved **Core Web Vitals** metrics, achieving **100% of good URLs** for News by optimizing **CLS** and **LCP**.  
-- Reduced **5xx errors** to below-average levels (<10 per week) by performing root cause analysis, raising tickets, and planning fixed releases.  
-- Collaborated with the design and product teams to resolve dependencies, plan stories, and deliver tasks on time.  
-- Implemented microfrontend architecture using **Lerna** and reusable components/hooks for scalable development.  
+## 🧠 Tech Stack & Skills
 
-### **Simform**  
-- Built and optimized full-stack web applications for clients in **healthcare**, **finance**, and **e-commerce** domains.  
-- Developed reusable components and libraries to improve efficiency and scalability.  
-- Contributed to cross-functional teams to deliver high-quality solutions on time.  
+### 💻 Frontend Development
+- Expert in **React.js**, **Next.js**, **Redux**, and **Modern JavaScript (ES6+)**
+- Strong grasp of **component-based architecture**, hooks, and **SPA** principles
+- UI/UX development using **HTML5**, **CSS3**, **SASS/SCSS**, and responsive frameworks (Tailwind, Bootstrap)
+- SSR/ISR using **Next.js** for SEO and performance
 
-### **Knackbout Studios**  
-- Worked on a **game-based learning platform** enabling students and professionals to practice, test, and showcase their skills.  
-- Focused on creating seamless user experiences and optimizing performance.  
+### 🛠 Backend Development
+- Experienced in **Node.js**, **Express.js**, and building secure, high-performance REST APIs
+- Microservice development and system design with scalability in mind
+- Familiar with **GraphQL**, **JWT**, and **API Gateway** patterns
 
----
+### 🧩 Databases
+- Relational: **MySQL**, **PostgreSQL**
+- NoSQL: **MongoDB**, **Firebase Realtime Database**
+- Schema design, query optimization, indexing strategies, and backup mechanisms
 
-## 🌟 **Recent Projects**  
-### **React E-Commerce Platform**  
-- A complete e-commerce solution built with **React**, **Redux**, and **Firebase**.  
-- Features include product search, dynamic cart management, and a secure checkout system.  
-- Implemented lazy loading, optimized components, and responsive design for a seamless user experience.  
+### ☁️ Cloud & DevOps
+- Hands-on experience with **AWS** (EC2, S3, Lambda, CloudFront, RDS), **Digital Ocean**
+- Set up **CI/CD pipelines** using GitHub Actions, Jenkins, and Bitbucket Pipelines
+- Dockerized apps for scalable deployments and smooth environment parity
 
-### **Node.js REST API**  
-- Designed and developed a robust RESTful API using **Node.js**, **Express.js**, and **MongoDB**.  
-- Included CRUD operations and JWT-based authentication for security.  
-- Deployed on **AWS** with automated backups and monitoring.
+### ⚙️ Tooling & Ecosystem
+- Git, Webpack, Babel, ESLint, Husky, Yarn, npm
+- Testing with **Jest**, **React Testing Library**, and Postman for API testing
+- Knowledge of **monorepo architecture** using **Lerna** and **Yarn workspaces**
 
-### **Performance Optimization for Dedicated Pages (REA India)**  
-- Reduced page response times by **20%** by moving sequential API calls to parallel execution.  
-- Improved Core Web Vitals metrics, achieving 100% of good URLs for News.  
-
----
-
-## 🏆 **Key Achievements**  
-- Optimized website performance, reducing **5xx errors** and improving user experience.  
-- Led the implementation of microfrontend architecture for scalable, modular development.  
-- Delivered key features and resolved dependencies through effective sprint planning and collaboration.  
-- Reduced latency and improved performance for high-traffic websites using cloud and CDN optimizations.  
+### 🚀 Learning & Exploration
+- Currently diving into:
+  - **Web Vitals** (FID, LCP, CLS) & performance observability
+  - **Progressive Web Apps (PWA)** & **Service Workers**
+  - **Module Federation**, **Microfrontends**, and **AI/ML** integrations
 
 ---
 
-## 📈 **What I’m Currently Working On**  
-- Exploring advanced **Web Vitals** metrics and performance optimization techniques.  
-- Enhancing skills in **PWA (Progressive Web Apps)**, **service workers**, and **module federation**.  
-- Diving deeper into **machine learning** and **AI** to build smarter applications.  
+## 💼 Professional Experience
+
+### 🏢 **Senior Software Development Engineer**  
+**REA India (Housing.com) | Present**
+
+- 🚀 **Improved Dedicated Page Response Time by 20%** by shifting from sequential to parallel API calls  
+- ✅ Achieved **100% good URLs for Core Web Vitals** (LCP, CLS) on News platform  
+- 🛠 Reduced **5xx errors** from spikes to <10/week through RCA and strategic fixes  
+- 🧩 Spearheaded **microfrontend architecture** using **Lerna** and shared libraries  
+- 🤝 Collaborated with cross-functional teams for design, story planning, and release management
+
+### 💼 **Software Engineer**  
+**Simform**
+
+- Developed end-to-end full-stack solutions for **healthcare**, **fintech**, and **e-commerce** clients  
+- Contributed to reusable design systems, backend APIs, and performance audits  
+- Collaborated in agile teams, delivering high-quality releases on tight timelines
+
+### 🎮 **Frontend Developer**  
+**Knackbout Studios**
+
+- Built a **game-based learning platform** with real-time interaction and gamified content  
+- Optimized rendering and asset delivery for improved user engagement
 
 ---
 
-## 🤝 **Let’s Connect**  
-I’m always open to collaborating on innovative projects or discussing new opportunities. Feel free to reach out to me!  
+## 🌟 Featured Projects
 
-- **Email:** [krishnkant120@gmail.com](mailto:krishnkant120@gmail.com)  
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/krishnkant-me/)  
-- **GitHub:** [View my repositories](https://github.com/krishnkant1996)  
+### 🛒 **React E-Commerce Platform**
+A complete e-commerce app built with **React**, **Redux**, and **Firebase**
+- 🔍 Product listing & search with real-time updates
+- 🛒 Cart management, lazy loading, and secure checkout
+- 📱 Mobile-first design & SSR using Next.js for SEO optimization
 
-Thanks for stopping by! Let’s build something incredible together. 🚀  
+### 🔐 **Node.js REST API**
+- Built secure, modular APIs with **Node.js**, **Express**, and **MongoDB**
+- Implemented **JWT-based auth**, rate-limiting, and CRUD operations
+- Hosted on **AWS**, with logs, monitoring, and auto-backups
+
+### ⚙️ **Performance Optimization (REA India)**
+- Cut page load time by 20% via async/parallel API re-architecture
+- Refined **Core Web Vitals** (LCP/CLS/FID), improving UX & Google rankings
+- Introduced header-based **cache-control** and **lazy hydration**
+
+---
+
+## 🏆 Highlights & Achievements
+
+- 📉 Reduced 5xx backend errors with proactive debugging & logging
+- 📈 Boosted web performance for high-traffic pages using **CDN**, **lazy loading**, and **SSR**
+- 🧱 Led migration to **Microfrontend** architecture for better team scalability
+- 🚀 Delivered time-critical features by managing cross-team dependencies efficiently
+- 🧑‍🏫 Mentored junior devs and improved code quality through PR reviews and documentation
+
+---
+
+## 📌 Currently Exploring
+- Deep dive into **AI/ML-powered applications**
+- Enhancing user experience with **PWA**, **Service Workers**, **Push Notifications**
+- Experimenting with **WebAssembly (WASM)** and **Edge Functions**  
+- Building reusable DevOps scripts for fast deployment and rollback
+
+---
+
+## 🤝 Let's Connect!
+
+I’m always up for interesting tech discussions, freelance collaborations, and new opportunities.
+
+- 📧 **Email:** [krishnkant120@gmail.com](mailto:krishnkant120@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/krishnkant-me](https://www.linkedin.com/in/krishnkant-me/)  
+- 👨‍💻 **GitHub:** [github.com/krishnkant1996](https://github.com/krishnkant1996)  
+
+Thanks for visiting! Let's build something awesome together. 🚀
