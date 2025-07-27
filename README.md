@@ -2,7 +2,7 @@
 
 **I'm Krishn kant Tiwari!**
 
-Welcome to my GitHub profile! I’m a passionate and results-driven **Senior Software Development Engineer** with **4+ years of experience** building fast, scalable, and user-centric web applications. I specialize in **React.js**, **Node.js**, and full-stack JavaScript development — with strong foundations in **performance optimization**, **cloud infrastructure**, and **scalable system design**.
+Welcome to my GitHub profile! I’m a passionate and results-driven **Senior Software Development Engineer** with ** ~7 years of experience** building fast, scalable, and user-centric web applications. I specialize in **React.js**, **Node.js**, and full-stack JavaScript development — with strong foundations in **performance optimization**, **cloud infrastructure**, and **scalable system design**.
 
 ---
 
